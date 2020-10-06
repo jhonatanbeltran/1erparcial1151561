@@ -1,3 +1,8 @@
+
+body{
+  background-color: gainsboro;
+}
+
 .navbar {
     color: purple;
 }
@@ -15,4 +20,12 @@ h1{
 .parrafo1{
   font-weight: bold;
   
+}
+
+.caja{
+  margin-top: 12px;
+  background-color: whitesmoke;
+}
+.col{
+  background-color: white;
 }
